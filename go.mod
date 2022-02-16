@@ -1,3 +1,3 @@
-module openapisdk-go.demo
+module github.com/msfruit/firstrepo
 
 go 1.17
